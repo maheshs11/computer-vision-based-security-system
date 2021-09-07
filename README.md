@@ -7,3 +7,5 @@ What is the edge? In general, edge devices are small, lightweight, devices on wh
 Deploying a production-quality computer vision application on the edge comes with its own set of challenges. With cloud computing you can scale instances when computation demand ramps up, however with edge devices, you are limited to the power of the individual device. Additionally, with edge deployment you may not have access to device status without integrating additional packages.
 
 https://we.tl/t-qM0EHzuLDl
+
+https://we.tl/t-4wzb9OdQjq
